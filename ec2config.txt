@@ -1,1 +1,2 @@
 AWS ec2 config file
+EC2 type updates: t2 micro
